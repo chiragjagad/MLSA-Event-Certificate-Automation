@@ -1,5 +1,6 @@
 # MLSA-Event-Certificate-Automation
-Being a Microsoft Learn Student Ambassador, it's our duty to share the knowledge by hosting events. And the people who attend the event earn a Microsoft Learn Student Ambassador Certificate of Participation. Manually making a hundred certificates can be tedious. But this script has got your back and can be used to generate hundreds of certificates within few seconds!
+Being a Microsoft Learn Student Ambassador, it's our duty to share the knowledge by hosting events. And the people who attend the event earn a Microsoft Learn Student Ambassador Certificate of Participation. Manually making a hundred certificates can be tedious. 
+But this script has got your back and can be used to generate hundreds of certificates within few seconds!
 
 ## Steps to be followed
 
