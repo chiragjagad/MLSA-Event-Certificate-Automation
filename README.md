@@ -12,13 +12,17 @@ Download the certificate template from Microsoft Teams. Type "Here" where you wa
 Add names and mails in the list.csv file
 ### 3. Make changes in script.py
 -> Add your path of working directory
+
 -> Add your email address password
+
 -> Add body and subject of the mail
 ### 4. Create two folders
 Create two folders, 'certificates-pdf' and 'certificates-word', to store all the certificates in pdf and word format, respectively
 ### 4. Run the script
 -> After running the script, all the certificates would be saved in the respective folder according to their format
+
 -> The certificate would be saved as 'Name.pdf' and 'Name.docx'
+
 -> The PDF file of the certificate would be sent as an attachment in the mail to the respective person. The mail would also contain the subject and the body of the mail.
 ### 5. Final Result!
 John Doe.pdf
