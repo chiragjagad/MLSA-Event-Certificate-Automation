@@ -23,7 +23,7 @@ Create two folders, 'certificates-pdf' and 'certificates-word', to store all the
 
 -> The certificate would be saved as 'Name.pdf' and 'Name.docx'
 
--> The PDF file of the certificate would be sent as an attachment in the mail to the respective person. The mail would also contain the subject and the body of the mail.
+-> The PDF file of the certificate would be sent as an attachment in the mail to the respective person. The mail would also contain the subject and the body.
 ### 5. Final Result!
 John Doe.pdf
 <img src="https://github.com/chiragjagad/MLSA-Event-Certificate-Automation/blob/master/readme/certificate.png">
