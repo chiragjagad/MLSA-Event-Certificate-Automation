@@ -19,7 +19,7 @@ Add names and mails in the list.csv file
 ### 4. Create two folders
 Create two folders, 'certificates-pdf' and 'certificates-word', to store all the certificates in pdf and word format, respectively
 ### 4. Run the script
--> After running the script, all the certificates would be saved in the respective folder according to their format
+-> After running the script, all the certificates would be saved in the respective folders according to their format
 
 -> The certificate would be saved as 'Name.pdf' and 'Name.docx'
 
